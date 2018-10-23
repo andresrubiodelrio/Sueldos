@@ -47,6 +47,9 @@ public class Sueldos {
             {
                 menorSueldo=Math.min(menorSueldo, sueldo);
                 mayorSueldo=Math.max(mayorSueldo, sueldo);
+                
+                
+                
             }
             
             //Acumulamos la suma de los sueldos
